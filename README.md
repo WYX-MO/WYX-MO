@@ -26,6 +26,8 @@
 [![MAN！](https://img.shields.io/badge/工具1-trae-white.svg)](https://img.shields.io/badge/)
 [![MAN！](https://img.shields.io/badge/工具2-AndroidStudio-green.svg)](https://img.shields.io/badge/)
 [![MAN！](https://img.shields.io/badge/工具3-vs-purple.svg)](https://img.shields.io/badge/)
+
 ![GitHub统计](https://github-readme-stats.vercel.app/api?username=WYX-MO&theme=transparent&show_icons=true)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WYX-MO)
 
