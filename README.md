@@ -12,7 +12,7 @@
 
 #### 语言
 [![MAN！](https://img.shields.io/badge/语言1-python-yellow.svg)](https://img.shields.io/badge/)
-我用*python*进行开发过一个公司股回收软件,运用了一点SqlServer,目前正在开发一款简单有趣的翻译软件
+我用*python*进行开发过一个公司股权回收软件,运用了一点SqlServer,目前正在开发一款简单有趣的翻译软件
 
 [![MAN！](https://img.shields.io/badge/语言2-java-black.svg)](https://img.shields.io/badge/)
 *java*是我接触的比较早的一门语言,是我了解面向对象编程的启蒙,开发过一款app,调用了deepseekapi
