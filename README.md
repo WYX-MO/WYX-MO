@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,50:6366f1,100:8b5cf6&height=190&section=header&text=IIZOM&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Vision%20%26%20Language%20%C2%B7%20Deep%20Learning&descAlignY=56&descSize=17" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,50:6366f1,100:8b5cf6&height=190&section=header&text=IIZOM&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Computer%20Vision%20%C2%B7%20Deep%20Learning&descAlignY=56&descSize=17" width="100%" />
 
 <a href="https://github.com/WYX-MO">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=780&height=42&lines=Computer+Vision+%26+Vision-Language+Models;Deep+Learning+with+PyTorch;Reading+papers%2C+writing+code%2C+chasing+gradients;%E6%85%A2%E6%85%A2%E6%9D%A5%EF%BC%8C%E6%AF%94%E8%BE%83%E5%BF%AB" alt="typing" />
@@ -218,4 +218,3 @@ graph LR
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,50:6366f1,100:1f6feb&height=120&section=footer" width="100%" />
 
 </div>
-
